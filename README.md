@@ -1,4 +1,4 @@
-# Project Name
+# Code Challenge
 
 ## Description
 This project is a single-page mobile application that displays the temperature of a random location based on provided JSON data. The app allows viewing one random location at a time and includes a button to display the next random location.
