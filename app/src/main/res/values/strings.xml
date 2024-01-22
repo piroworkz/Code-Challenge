@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HSBC Code Challenge</string>
+    <string name="title_location">Location</string>
+    <string name="title_temperature">Temperature</string>
+    <string name="temperature_unit">20.0 %1$s</string>
+    <string name="btn_next">Next Random Location</string>
+</resources>
